@@ -12,7 +12,7 @@ Crie um `venv` utilizando `python -m venv venv`
 
 Ative-o:
 
-Windows - `.\venv\Scripts\activate` ou `.\venv\Scripts\Activate.ps1`
+Windows - `.\venv\Scripts\activate` ou `.\venv\Scripts\Activate.ps1` <br>
 Linux - `source venv/bin/activate`
 
 Utilize `pip install -r requirements.txt`
